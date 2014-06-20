@@ -2,4 +2,4 @@ enginecmf
 =========
 This is Real-Time CMF
 ------
-	Tornado + MongoDB + Backbone
+	Tornado (deferred) + Motor(MongoDB) + Backbone + AMD(requireJS)
